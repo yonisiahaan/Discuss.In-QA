@@ -34,7 +34,12 @@ public class CreateThreadStep {
     }
 
     @Then("I will get the {string} post")
-    public void iWillGetThePost(String arg0) {
-        
+    public void iWillGetThePost(String post) {
+        public void iWillGetThe(String post) {
+            if (post.equals("success")) {
+                createThread.successPost();
+            } else if (post.equals("failed")) {
+                createThread.errMsgNameDisplayed();
+            }
     }
 }

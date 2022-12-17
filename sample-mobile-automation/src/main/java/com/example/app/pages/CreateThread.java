@@ -14,12 +14,18 @@ public class CreateThread extends BasePageObject {
     private By popupCreateThread = MobileBy.AccessibilityId("Tab 3 of 5");
     private By CreateThreadButton = MobileBy.AccessibilityId("Create a Discuss?");
     private By DiscussInButton = MobileBy.AccessibilityId("Discuss.In");
+    private By verifySuccessThread = By.xpath("//android.view.View[1]");
 
     public void clickCreateThreadButton(){
         click(popupCreateThread);
         click(CreateThreadButton);
     }
-
+    public void successPost(){
+        isDisplayed(verifySuccessThread);
+    }
+    public void failedPost(){
+        isDisplayed(verifySuccessThread);
+    }
     public void writeTitle(String title){
         if(title.equals("write")){
             GenerateString generateString = new GenerateString();
