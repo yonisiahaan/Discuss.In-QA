@@ -9,25 +9,26 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class LogoutStep {
-    RegistPage registPage = new RegistPage();
-    LoginPage loginPage = new LoginPage();
-    LogoutPage logoutPage = new LogoutPage();
-    @Given("I have login on Alta Store")
-    public void iHaveLoginOnAltaStore() {
-        registPage.clickLoginIcon();
-        loginPage.inputEmailLogin("bayuseptyan43@gmail.com");
-        loginPage.inputPasswordLogin("mobil-mobilan ");
-        loginPage.clickLoginBtn();
-        registPage.successLogin();
-    }
 
-    @When("I click logout icon")
+    RegistPage registPage = new RegistPage();
+    LogoutPage logoutPage = new LogoutPage();
+    @When("I click Profile button")
+    public void iClickProfileButton() {
+        logoutPage.clickProfileBtn();
+    }
+    @And("I click Setting button")
+    public void iClickSettingButton() {
+        logoutPage.clickSettingBtn();
+    }
+    @Then("I click logout icon")
     public void iClickLogoutIcon() {
         logoutPage.clickLogoutBtn();
     }
 
-    @Then("I will go to login page")
+    @And("I will go to login page")
     public void iWillGoToLoginPage() {
         registPage.clickLoginIcon();
     }
+
+
 }

@@ -1,7 +1,7 @@
 Feature: Login Account
   As a user
   I want to login
-  So I can access my dashboard
+  So I can access my home page
 
   Scenario Outline: Login with email and Password
     Given I am on the login page
