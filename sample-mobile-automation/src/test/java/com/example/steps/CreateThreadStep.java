@@ -28,18 +28,26 @@ public class CreateThreadStep {
         createThread.writeContent(arg1);
         createThread.uploadAPhoto(arg2);
     }
-    @And("I click discuss.In button")
-    public void iClickDiscussInButton() {
+
+    @And("I click discuss.In button and Publish")
+    public void iClickDiscussInButtonAndPublish() {
         createThread.clickDiscussInButton();
+        createThread.clickPublishThread();
     }
 
     @Then("I will get the {string} post")
     public void iWillGetThePost(String post) {
-        public void iWillGetThe(String post) {
             if (post.equals("success")) {
                 createThread.successPost();
             } else if (post.equals("failed")) {
-                createThread.errMsgNameDisplayed();
+                createThread.failedPost();
+            } else if (post.equals("doesnt work")) {
+                createThread.doesntWork();
             }
+    }
+
+    @And("I click discuss.In button")
+    public void iClickDiscussInButton() {
+        createThread.clickDiscussInButton();
     }
 }

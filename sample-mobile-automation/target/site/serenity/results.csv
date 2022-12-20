@@ -1,3 +1,6 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Register Account","Regist with username, email, and password","SUCCESS","2022-12-16T08:03:35.6516272+07:00[Asia/Bangkok]","0.0","955.63"
-"Login Account","Login with email and Password","SUCCESS","2022-12-16T08:19:31.2998279+07:00[Asia/Bangkok]","0.0","342.55"
+"Register Account","Regist with username, email, and password","SUCCESS","2022-12-17T20:34:51.1275023+07:00[Asia/Bangkok]","0.0","902.7"
+"Login Account","Login with email and Password","SUCCESS","2022-12-17T20:49:53.8473793+07:00[Asia/Bangkok]","0.0","317.22"
+"Create Thread","Create Thread with Title, content, and photo (without null)","ERROR","2022-12-17T20:55:11.0832584+07:00[Asia/Bangkok]","0.0","650.71"
+"Create Thread","Create Thread with Title, content, and photo (with null)","ERROR","2022-12-17T21:06:01.8060731+07:00[Asia/Bangkok]","0.0","216.73"
+"Logout Account","Logout with valid email and Password","SUCCESS","2022-12-17T21:09:38.7923683+07:00[Asia/Bangkok]","0.0","52.22"

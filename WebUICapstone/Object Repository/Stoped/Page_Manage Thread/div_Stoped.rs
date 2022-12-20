@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Stoped</name>
+   <tag></tag>
+   <elementGuidId>27df5ad7-3e8a-424b-91a0-e24eef5b270e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[6]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0a4c56e-737e-4214-b572-8b67a68f4424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-red-300 p-1 rounded flex justify-center items-center place-content-center cursor-pointer</value>
+      <webElementGuid>740d0d22-12f0-4dc1-b2d0-b51d2cb70edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stoped</value>
+      <webElementGuid>98adaf23-a689-489e-8d82-11ba10b6ab5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;flex w-full&quot;]/div[@class=&quot;pt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;users&quot;]/div[@class=&quot;w-[80vw] h-[90vh] rounded-lg relative&quot;]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-root--densityStandard css-1o89unk&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[2]/div[@class=&quot;MuiDataGrid-virtualScroller css-1grl8tv&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent css-0&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-1inm7gi&quot;]/div[@class=&quot;MuiDataGrid-row&quot;]/div[@class=&quot;MuiDataGrid-cell--withRenderer MuiDataGrid-cell MuiDataGrid-cell--textCenter MuiDataGrid-cell--editable&quot;]/div[@class=&quot;flex justify-between w-[100%]&quot;]/div[@class=&quot;bg-red-300 p-1 rounded flex justify-center items-center place-content-center cursor-pointer&quot;]</value>
+      <webElementGuid>1a5115c3-83e3-4848-96ea-b7c985cc4d05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div[6]/div/div</value>
+      <webElementGuid>de5b1a0a-5b07-467a-bfaa-8c5816275f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stoped'])[1]/following::div[11]</value>
+      <webElementGuid>0923a778-f071-4102-8f24-14108095a142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Football'])[1]/following::div[15]</value>
+      <webElementGuid>179be11a-466d-4e8f-a9b1-2896e955f979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FIFA World Cup Qatar 2022'])[1]/preceding::div[4]</value>
+      <webElementGuid>8cfda78a-d6fb-4e2b-9e5f-1df1ddc12d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]/div/div</value>
+      <webElementGuid>bdc3a483-5e1d-4e49-8140-91c3c5804668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Stoped' or . = 'Stoped')]</value>
+      <webElementGuid>b1458b41-1467-4c53-9f7d-ab1c1303e106</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

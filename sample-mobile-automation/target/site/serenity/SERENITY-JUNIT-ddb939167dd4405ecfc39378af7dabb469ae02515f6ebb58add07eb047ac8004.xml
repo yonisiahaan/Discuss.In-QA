@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Register Account" skipped="0" tests="27" time="955.63" timestamp="2022-12-16 08:03:35"><testcase name="Regist with username, email, and password"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Register Account" skipped="0" tests="27" time="902.7" timestamp="2022-12-17 08:34:51"><testcase name="Regist with username, email, and password"/></testsuite>

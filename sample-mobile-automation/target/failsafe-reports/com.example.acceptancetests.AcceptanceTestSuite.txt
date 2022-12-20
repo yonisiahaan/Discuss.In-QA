@@ -1,4 +1,52 @@
 -------------------------------------------------------------------------------
 Test set: com.example.acceptancetests.AcceptanceTestSuite
 -------------------------------------------------------------------------------
-Tests run: 36, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1,303.346 s - in com.example.acceptancetests.AcceptanceTestSuite
+Tests run: 45, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 2,146.671 s <<< FAILURE! - in com.example.acceptancetests.AcceptanceTestSuite
+Create Thread.Create Thread with Title, content, and photo (without null) #3  Time elapsed: 158.328 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+java.lang.IllegalArgumentException: Unable to compile '///android.widget.ImageView'. See Cause.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2F464B0', ip: '192.168.122.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\File Baru\Kuliah\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\File Baru\Kuliah\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: d047a656-68e2-4fbd-a47e-1a4d03382982
+*** Element info: {Using=xpath, value=///android.widget.ImageView}
+
+Create Thread.Create Thread with Title, content, and photo (without null) #5  Time elapsed: 157.555 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+java.lang.IllegalArgumentException: Unable to compile '///android.widget.ImageView'. See Cause.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2F464B0', ip: '192.168.122.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\File Baru\Kuliah\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\File Baru\Kuliah\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 43c24a59-66b1-478e-a974-7632a42a93de
+*** Element info: {Using=xpath, value=///android.widget.ImageView}
+
+Create Thread.Create Thread with Title, content, and photo (without null) #6  Time elapsed: 159.871 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+java.lang.IllegalArgumentException: Unable to compile '///android.widget.ImageView'. See Cause.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2F464B0', ip: '192.168.122.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\File Baru\Kuliah\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\File Baru\Kuliah\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 14f9ef81-97b4-4ba1-89ba-bafef45eb352
+*** Element info: {Using=xpath, value=///android.widget.ImageView}
+
+Create Thread.Create Thread with Title, content, and photo (with null) #2  Time elapsed: 158.732 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)
+Caused by: org.openqa.selenium.InvalidSelectorException: 
+java.lang.IllegalArgumentException: Unable to compile '///android.widget.ImageView'. See Cause.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-2F464B0', ip: '192.168.122.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\File Baru\Kuliah\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\File Baru\Kuliah\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 8132b916-8d8f-42f1-8ba0-bfefbbd3b5ff
+*** Element info: {Using=xpath, value=///android.widget.ImageView}
+

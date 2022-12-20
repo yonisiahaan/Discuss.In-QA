@@ -3,4 +3,4 @@ com\example\steps\LogoutStep.class
 com\example\steps\RegistStep.class
 com\example\acceptancetests\AcceptanceTestSuite.class
 com\example\hook\AndroidDriverHook.class
-com\example\steps\AddProductStep.class
+com\example\steps\CreateThreadStep.class

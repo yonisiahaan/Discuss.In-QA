@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign in as AdminNot admins Open apps in_29c20b</name>
+   <tag></tag>
+   <elementGuidId>e43fda61-f3a7-42ca-9011-24a8c9f03070</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.my-auto.flex.justify-center.py-4.items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1deb9c3-17df-4124-ad6e-11762438ee62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-auto flex justify-center py-4 items-center</value>
+      <webElementGuid>18d8bb26-8c33-4c05-93e6-6b135865ff1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in as AdminNot admins? Open apps in hereEmailPasswordForget password?Sign In© DiscussIn. All right reserved.</value>
+      <webElementGuid>85722e2d-c1b1-46dd-8e36-b41c8f22820d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container h-screen flex items-center justify-center&quot;]/div[@class=&quot;my-auto flex justify-center py-4 items-center&quot;]</value>
+      <webElementGuid>e483dee0-5869-424e-93ea-06b425bb9662</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div</value>
+      <webElementGuid>cd918771-51ef-47fa-9420-5e2c946ad46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>5df8818e-1e02-4261-88a8-5d9fd7a20f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign in as AdminNot admins? Open apps in hereEmailPasswordForget password?Sign In© DiscussIn. All right reserved.' or . = 'Sign in as AdminNot admins? Open apps in hereEmailPasswordForget password?Sign In© DiscussIn. All right reserved.')]</value>
+      <webElementGuid>116778d4-4a5a-4cbe-98a4-5bf87916f073</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

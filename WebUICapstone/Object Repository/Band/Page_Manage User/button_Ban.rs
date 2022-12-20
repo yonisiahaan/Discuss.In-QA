@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ban</name>
+   <tag></tag>
+   <elementGuidId>1fb7c83f-e40a-4603-a994-2fcbaac0d403</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[7]/div[4]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9632ef7-25a0-41a0-a0b9-083d93f2e0c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-danger border border-red-600 px-3 py-2  rounded-lg text-white</value>
+      <webElementGuid>e29da95d-67f4-4eab-89f1-2c2aa99b8e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ban</value>
+      <webElementGuid>59856da7-fb6a-4e38-b356-c574afb1c75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;flex w-full&quot;]/div[@class=&quot;pt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;users&quot;]/div[@class=&quot;w-[80vw] h-[90vh]&quot;]/div[@class=&quot;shadow-xl MuiDataGrid-root MuiDataGrid-root--densityStandard css-1r8cf7b&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[2]/div[@class=&quot;MuiDataGrid-virtualScroller css-1grl8tv&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent MuiDataGrid-virtualScrollerContent--overflowed css-0&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-1inm7gi&quot;]/div[@class=&quot;MuiDataGrid-row&quot;]/div[@class=&quot;MuiDataGrid-cell--withRenderer MuiDataGrid-cell MuiDataGrid-cell--textLeft&quot;]/div[@class=&quot;w-full flex items-center gap-4&quot;]/button[@class=&quot;bg-danger border border-red-600 px-3 py-2  rounded-lg text-white&quot;]</value>
+      <webElementGuid>ebca7369-f946-4e1e-86bc-2a7055080f5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[7]/div[4]/div/button</value>
+      <webElementGuid>b30e9e0a-ebd9-4995-95e0-dddac74f482a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kaliber@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>e8d28d66-e716-42cd-8a8e-d841ae6a58cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kaliber'])[1]/following::button[1]</value>
+      <webElementGuid>71dc84d7-ad06-48e5-83ff-2d3110f48822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='naruto'])[1]/preceding::button[2]</value>
+      <webElementGuid>117dd3cc-8d19-4d17-928f-d92ddf93b11a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='naruto@gmail.com'])[1]/preceding::button[2]</value>
+      <webElementGuid>166e6e1b-6680-464c-a7d6-b51a85c0378a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[4]/div/button</value>
+      <webElementGuid>9c40a12c-3caf-4838-bb02-277ba99fce6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ban' or . = 'Ban')]</value>
+      <webElementGuid>2416e1f5-6f84-47c7-b522-16e6d0fec376</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

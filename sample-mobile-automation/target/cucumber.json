@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-12-16T01:03:35.454Z",
+        "start_timestamp": "2022-12-17T13:34:50.958Z",
         "before": [
           {
             "result": {
-              "duration": 23438623700,
+              "duration": 16458473100,
               "status": "passed"
             },
             "match": {
@@ -22,7 +22,7 @@
         "after": [
           {
             "result": {
-              "duration": 678184300,
+              "duration": 656246100,
               "status": "passed"
             },
             "match": {
@@ -35,7 +35,7 @@
         "steps": [
           {
             "result": {
-              "duration": 892612000,
+              "duration": 10403157300,
               "status": "passed"
             },
             "line": 7,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 5078414300,
+              "duration": 4683223900,
               "status": "passed"
             },
             "line": 8,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 189491600,
+              "duration": 920536000,
               "status": "passed"
             },
             "line": 9,
@@ -85,7 +85,7 @@
           },
           {
             "result": {
-              "duration": 11307994800,
+              "duration": 10419835500,
               "status": "passed"
             },
             "line": 10,
@@ -104,11 +104,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:04:17.649Z",
+        "start_timestamp": "2022-12-17T13:35:35.073Z",
         "before": [
           {
             "result": {
-              "duration": 15771802900,
+              "duration": 15033804900,
               "status": "passed"
             },
             "match": {
@@ -123,7 +123,7 @@
         "after": [
           {
             "result": {
-              "duration": 763956100,
+              "duration": 693146400,
               "status": "passed"
             },
             "match": {
@@ -136,7 +136,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10307425200,
+              "duration": 10977290300,
               "status": "passed"
             },
             "line": 7,
@@ -148,7 +148,7 @@
           },
           {
             "result": {
-              "duration": 4998627800,
+              "duration": 5229520700,
               "status": "passed"
             },
             "line": 8,
@@ -174,7 +174,7 @@
           },
           {
             "result": {
-              "duration": 884249300,
+              "duration": 882637000,
               "status": "passed"
             },
             "line": 9,
@@ -186,7 +186,7 @@
           },
           {
             "result": {
-              "duration": 1033234100,
+              "duration": 961425300,
               "status": "passed"
             },
             "line": 10,
@@ -205,11 +205,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:04:51.460Z",
+        "start_timestamp": "2022-12-17T13:36:08.904Z",
         "before": [
           {
             "result": {
-              "duration": 15021352100,
+              "duration": 15190385200,
               "status": "passed"
             },
             "match": {
@@ -224,7 +224,7 @@
         "after": [
           {
             "result": {
-              "duration": 734036700,
+              "duration": 690154300,
               "status": "passed"
             },
             "match": {
@@ -237,7 +237,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10387148300,
+              "duration": 10487168500,
               "status": "passed"
             },
             "line": 7,
@@ -249,7 +249,7 @@
           },
           {
             "result": {
-              "duration": 5919320200,
+              "duration": 5672936800,
               "status": "passed"
             },
             "line": 8,
@@ -275,7 +275,7 @@
           },
           {
             "result": {
-              "duration": 176528600,
+              "duration": 163563100,
               "status": "passed"
             },
             "line": 9,
@@ -287,7 +287,7 @@
           },
           {
             "result": {
-              "duration": 1019272700,
+              "duration": 1075127000,
               "status": "passed"
             },
             "line": 10,
@@ -306,11 +306,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:05:24.764Z",
+        "start_timestamp": "2022-12-17T13:36:42.233Z",
         "before": [
           {
             "result": {
-              "duration": 17330555100,
+              "duration": 14649830600,
               "status": "passed"
             },
             "match": {
@@ -325,7 +325,7 @@
         "after": [
           {
             "result": {
-              "duration": 630316500,
+              "duration": 674195300,
               "status": "passed"
             },
             "match": {
@@ -338,7 +338,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10421454700,
+              "duration": 10622149100,
               "status": "passed"
             },
             "line": 7,
@@ -350,7 +350,7 @@
           },
           {
             "result": {
-              "duration": 5808145400,
+              "duration": 5543175300,
               "status": "passed"
             },
             "line": 8,
@@ -376,7 +376,7 @@
           },
           {
             "result": {
-              "duration": 192474100,
+              "duration": 180515700,
               "status": "passed"
             },
             "line": 9,
@@ -388,7 +388,7 @@
           },
           {
             "result": {
-              "duration": 1662554700,
+              "duration": 1005312800,
               "status": "passed"
             },
             "line": 10,
@@ -407,11 +407,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:06:00.857Z",
+        "start_timestamp": "2022-12-17T13:37:14.941Z",
         "before": [
           {
             "result": {
-              "duration": 16673394500,
+              "duration": 15559399400,
               "status": "passed"
             },
             "match": {
@@ -426,7 +426,7 @@
         "after": [
           {
             "result": {
-              "duration": 756976100,
+              "duration": 669212700,
               "status": "passed"
             },
             "match": {
@@ -439,7 +439,7 @@
         "steps": [
           {
             "result": {
-              "duration": 11169962000,
+              "duration": 10533470600,
               "status": "passed"
             },
             "line": 7,
@@ -451,7 +451,7 @@
           },
           {
             "result": {
-              "duration": 4228553000,
+              "duration": 4694739000,
               "status": "passed"
             },
             "line": 8,
@@ -477,7 +477,7 @@
           },
           {
             "result": {
-              "duration": 884631100,
+              "duration": 836788900,
               "status": "passed"
             },
             "line": 9,
@@ -489,7 +489,7 @@
           },
           {
             "result": {
-              "duration": 1038222800,
+              "duration": 919542500,
               "status": "passed"
             },
             "line": 10,
@@ -508,11 +508,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:06:35.650Z",
+        "start_timestamp": "2022-12-17T13:37:48.192Z",
         "before": [
           {
             "result": {
-              "duration": 14951405200,
+              "duration": 15571418700,
               "status": "passed"
             },
             "match": {
@@ -527,7 +527,7 @@
         "after": [
           {
             "result": {
-              "duration": 753983300,
+              "duration": 727054200,
               "status": "passed"
             },
             "match": {
@@ -540,7 +540,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10395804100,
+              "duration": 10435592100,
               "status": "passed"
             },
             "line": 7,
@@ -552,7 +552,7 @@
           },
           {
             "result": {
-              "duration": 5999948800,
+              "duration": 5559521100,
               "status": "passed"
             },
             "line": 8,
@@ -578,7 +578,7 @@
           },
           {
             "result": {
-              "duration": 194479100,
+              "duration": 180517900,
               "status": "passed"
             },
             "line": 9,
@@ -590,7 +590,7 @@
           },
           {
             "result": {
-              "duration": 993343700,
+              "duration": 1046207500,
               "status": "passed"
             },
             "line": 10,
@@ -609,11 +609,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:07:08.987Z",
+        "start_timestamp": "2022-12-17T13:38:21.751Z",
         "before": [
           {
             "result": {
-              "duration": 17343599700,
+              "duration": 14703686700,
               "status": "passed"
             },
             "match": {
@@ -628,7 +628,7 @@
         "after": [
           {
             "result": {
-              "duration": 797862400,
+              "duration": 655244200,
               "status": "passed"
             },
             "match": {
@@ -641,7 +641,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10620893900,
+              "duration": 10449061000,
               "status": "passed"
             },
             "line": 7,
@@ -653,7 +653,7 @@
           },
           {
             "result": {
-              "duration": 5726268100,
+              "duration": 5340097000,
               "status": "passed"
             },
             "line": 8,
@@ -679,7 +679,7 @@
           },
           {
             "result": {
-              "duration": 1008303000,
+              "duration": 182512800,
               "status": "passed"
             },
             "line": 9,
@@ -691,7 +691,7 @@
           },
           {
             "result": {
-              "duration": 432844700,
+              "duration": 979487000,
               "status": "passed"
             },
             "line": 10,
@@ -710,11 +710,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:07:44.960Z",
+        "start_timestamp": "2022-12-17T13:38:54.101Z",
         "before": [
           {
             "result": {
-              "duration": 15662887100,
+              "duration": 14421299400,
               "status": "passed"
             },
             "match": {
@@ -729,7 +729,7 @@
         "after": [
           {
             "result": {
-              "duration": 724060900,
+              "duration": 650260600,
               "status": "passed"
             },
             "match": {
@@ -742,7 +742,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10388865000,
+              "duration": 10489315500,
               "status": "passed"
             },
             "line": 7,
@@ -754,7 +754,7 @@
           },
           {
             "result": {
-              "duration": 5756988500,
+              "duration": 5416668400,
               "status": "passed"
             },
             "line": 8,
@@ -780,7 +780,7 @@
           },
           {
             "result": {
-              "duration": 873665100,
+              "duration": 854714300,
               "status": "passed"
             },
             "line": 9,
@@ -792,7 +792,7 @@
           },
           {
             "result": {
-              "duration": 818804800,
+              "duration": 854754000,
               "status": "passed"
             },
             "line": 10,
@@ -811,11 +811,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:08:19.225Z",
+        "start_timestamp": "2022-12-17T13:39:26.823Z",
         "before": [
           {
             "result": {
-              "duration": 17318206700,
+              "duration": 13908811500,
               "status": "passed"
             },
             "match": {
@@ -830,7 +830,7 @@
         "after": [
           {
             "result": {
-              "duration": 746006500,
+              "duration": 619341400,
               "status": "passed"
             },
             "match": {
@@ -843,7 +843,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10396956300,
+              "duration": 10416791400,
               "status": "passed"
             },
             "line": 7,
@@ -855,7 +855,7 @@
           },
           {
             "result": {
-              "duration": 6401873900,
+              "duration": 6390979100,
               "status": "passed"
             },
             "line": 8,
@@ -881,7 +881,7 @@
           },
           {
             "result": {
-              "duration": 228384600,
+              "duration": 202457800,
               "status": "passed"
             },
             "line": 9,
@@ -893,7 +893,7 @@
           },
           {
             "result": {
-              "duration": 849726500,
+              "duration": 834765900,
               "status": "passed"
             },
             "line": 10,
@@ -912,11 +912,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:08:55.199Z",
+        "start_timestamp": "2022-12-17T13:39:59.227Z",
         "before": [
           {
             "result": {
-              "duration": 15402077400,
+              "duration": 14036470400,
               "status": "passed"
             },
             "match": {
@@ -931,7 +931,7 @@
         "after": [
           {
             "result": {
-              "duration": 732043400,
+              "duration": 743012600,
               "status": "passed"
             },
             "match": {
@@ -944,7 +944,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10586174400,
+              "duration": 10458778600,
               "status": "passed"
             },
             "line": 7,
@@ -956,7 +956,7 @@
           },
           {
             "result": {
-              "duration": 5599019700,
+              "duration": 5253411100,
               "status": "passed"
             },
             "line": 8,
@@ -982,7 +982,7 @@
           },
           {
             "result": {
-              "duration": 1606697900,
+              "duration": 1627463600,
               "status": "passed"
             },
             "line": 9,
@@ -994,7 +994,7 @@
           },
           {
             "result": {
-              "duration": 149600800,
+              "duration": 127307600,
               "status": "passed"
             },
             "line": 10,
@@ -1013,11 +1013,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:09:29.302Z",
+        "start_timestamp": "2022-12-17T13:40:31.503Z",
         "before": [
           {
             "result": {
-              "duration": 15991219800,
+              "duration": 13812117300,
               "status": "passed"
             },
             "match": {
@@ -1032,7 +1032,7 @@
         "after": [
           {
             "result": {
-              "duration": 769942200,
+              "duration": 674197400,
               "status": "passed"
             },
             "match": {
@@ -1045,7 +1045,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10418792500,
+              "duration": 10514981600,
               "status": "passed"
             },
             "line": 7,
@@ -1057,7 +1057,7 @@
           },
           {
             "result": {
-              "duration": 6412840300,
+              "duration": 6188015600,
               "status": "passed"
             },
             "line": 8,
@@ -1083,7 +1083,7 @@
           },
           {
             "result": {
-              "duration": 225396000,
+              "duration": 143611300,
               "status": "passed"
             },
             "line": 9,
@@ -1095,7 +1095,7 @@
           },
           {
             "result": {
-              "duration": 832771700,
+              "duration": 930509300,
               "status": "passed"
             },
             "line": 10,
@@ -1114,11 +1114,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:10:03.985Z",
+        "start_timestamp": "2022-12-17T13:41:03.795Z",
         "before": [
           {
             "result": {
-              "duration": 17797485600,
+              "duration": 14121289600,
               "status": "passed"
             },
             "match": {
@@ -1133,7 +1133,7 @@
         "after": [
           {
             "result": {
-              "duration": 697128700,
+              "duration": 620021000,
               "status": "passed"
             },
             "match": {
@@ -1146,7 +1146,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10593939800,
+              "duration": 10634100900,
               "status": "passed"
             },
             "line": 7,
@@ -1158,7 +1158,7 @@
           },
           {
             "result": {
-              "duration": 6540698700,
+              "duration": 5897201100,
               "status": "passed"
             },
             "line": 8,
@@ -1184,7 +1184,7 @@
           },
           {
             "result": {
-              "duration": 877650500,
+              "duration": 869674700,
               "status": "passed"
             },
             "line": 9,
@@ -1196,7 +1196,7 @@
           },
           {
             "result": {
-              "duration": 1281573900,
+              "duration": 1379687600,
               "status": "passed"
             },
             "line": 10,
@@ -1215,11 +1215,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:10:41.807Z",
+        "start_timestamp": "2022-12-17T13:41:37.349Z",
         "before": [
           {
             "result": {
-              "duration": 14910648000,
+              "duration": 13955687100,
               "status": "passed"
             },
             "match": {
@@ -1234,7 +1234,7 @@
         "after": [
           {
             "result": {
-              "duration": 780909800,
+              "duration": 774928400,
               "status": "passed"
             },
             "match": {
@@ -1247,7 +1247,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10412813000,
+              "duration": 10483223300,
               "status": "passed"
             },
             "line": 7,
@@ -1259,7 +1259,7 @@
           },
           {
             "result": {
-              "duration": 7926791000,
+              "duration": 6146110600,
               "status": "passed"
             },
             "line": 8,
@@ -1285,7 +1285,7 @@
           },
           {
             "result": {
-              "duration": 1750316100,
+              "duration": 880649000,
               "status": "passed"
             },
             "line": 9,
@@ -1297,7 +1297,7 @@
           },
           {
             "result": {
-              "duration": 3991500,
+              "duration": 2996400,
               "status": "passed"
             },
             "line": 10,
@@ -1316,11 +1316,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:11:17.630Z",
+        "start_timestamp": "2022-12-17T13:42:09.629Z",
         "before": [
           {
             "result": {
-              "duration": 15595282100,
+              "duration": 14326693600,
               "status": "passed"
             },
             "match": {
@@ -1335,7 +1335,7 @@
         "after": [
           {
             "result": {
-              "duration": 688158600,
+              "duration": 661232700,
               "status": "passed"
             },
             "match": {
@@ -1348,7 +1348,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10480961400,
+              "duration": 10510259300,
               "status": "passed"
             },
             "line": 7,
@@ -1360,7 +1360,7 @@
           },
           {
             "result": {
-              "duration": 5835390400,
+              "duration": 5364280900,
               "status": "passed"
             },
             "line": 8,
@@ -1386,7 +1386,7 @@
           },
           {
             "result": {
-              "duration": 878647000,
+              "duration": 876657200,
               "status": "passed"
             },
             "line": 9,
@@ -1398,7 +1398,7 @@
           },
           {
             "result": {
-              "duration": 921541900,
+              "duration": 850719900,
               "status": "passed"
             },
             "line": 10,
@@ -1417,11 +1417,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:11:52.060Z",
+        "start_timestamp": "2022-12-17T13:42:42.247Z",
         "before": [
           {
             "result": {
-              "duration": 15075669200,
+              "duration": 14146179700,
               "status": "passed"
             },
             "match": {
@@ -1436,7 +1436,7 @@
         "after": [
           {
             "result": {
-              "duration": 719075900,
+              "duration": 672658700,
               "status": "passed"
             },
             "match": {
@@ -1449,7 +1449,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10431072500,
+              "duration": 10417304300,
               "status": "passed"
             },
             "line": 7,
@@ -1461,7 +1461,7 @@
           },
           {
             "result": {
-              "duration": 6476682000,
+              "duration": 5915179100,
               "status": "passed"
             },
             "line": 8,
@@ -1487,7 +1487,7 @@
           },
           {
             "result": {
-              "duration": 184505900,
+              "duration": 978987100,
               "status": "passed"
             },
             "line": 9,
@@ -1499,7 +1499,7 @@
           },
           {
             "result": {
-              "duration": 856708700,
+              "duration": 152732800,
               "status": "passed"
             },
             "line": 10,
@@ -1518,11 +1518,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:12:25.836Z",
+        "start_timestamp": "2022-12-17T13:43:14.558Z",
         "before": [
           {
             "result": {
-              "duration": 16863473100,
+              "duration": 14703688000,
               "status": "passed"
             },
             "match": {
@@ -1537,7 +1537,7 @@
         "after": [
           {
             "result": {
-              "duration": 674194100,
+              "duration": 613360400,
               "status": "passed"
             },
             "match": {
@@ -1550,7 +1550,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10566030900,
+              "duration": 10482372000,
               "status": "passed"
             },
             "line": 7,
@@ -1562,7 +1562,7 @@
           },
           {
             "result": {
-              "duration": 6919485000,
+              "duration": 6078657700,
               "status": "passed"
             },
             "line": 8,
@@ -1588,7 +1588,7 @@
           },
           {
             "result": {
-              "duration": 158577000,
+              "duration": 147218700,
               "status": "passed"
             },
             "line": 9,
@@ -1600,7 +1600,7 @@
           },
           {
             "result": {
-              "duration": 860694500,
+              "duration": 840751300,
               "status": "passed"
             },
             "line": 10,
@@ -1619,11 +1619,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:13:01.913Z",
+        "start_timestamp": "2022-12-17T13:43:47.455Z",
         "before": [
           {
             "result": {
-              "duration": 14731047700,
+              "duration": 14453357600,
               "status": "passed"
             },
             "match": {
@@ -1638,7 +1638,7 @@
         "after": [
           {
             "result": {
-              "duration": 725062300,
+              "duration": 647271500,
               "status": "passed"
             },
             "match": {
@@ -1651,7 +1651,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10437448500,
+              "duration": 10620483400,
               "status": "passed"
             },
             "line": 7,
@@ -1663,7 +1663,7 @@
           },
           {
             "result": {
-              "duration": 5704835300,
+              "duration": 5368095500,
               "status": "passed"
             },
             "line": 8,
@@ -1689,7 +1689,7 @@
           },
           {
             "result": {
-              "duration": 894605700,
+              "duration": 876654500,
               "status": "passed"
             },
             "line": 9,
@@ -1701,7 +1701,7 @@
           },
           {
             "result": {
-              "duration": 885630200,
+              "duration": 842744300,
               "status": "passed"
             },
             "line": 10,
@@ -1720,11 +1720,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:13:35.321Z",
+        "start_timestamp": "2022-12-17T13:44:20.291Z",
         "before": [
           {
             "result": {
-              "duration": 16628181500,
+              "duration": 16386192400,
               "status": "passed"
             },
             "match": {
@@ -1739,7 +1739,7 @@
         "after": [
           {
             "result": {
-              "duration": 749994100,
+              "duration": 867679900,
               "status": "passed"
             },
             "match": {
@@ -1752,7 +1752,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10451362000,
+              "duration": 10441632400,
               "status": "passed"
             },
             "line": 7,
@@ -1764,7 +1764,7 @@
           },
           {
             "result": {
-              "duration": 6863639900,
+              "duration": 5885266200,
               "status": "passed"
             },
             "line": 8,
@@ -1790,7 +1790,7 @@
           },
           {
             "result": {
-              "duration": 886591100,
+              "duration": 902585900,
               "status": "passed"
             },
             "line": 9,
@@ -1802,7 +1802,7 @@
           },
           {
             "result": {
-              "duration": 945467600,
+              "duration": 967413300,
               "status": "passed"
             },
             "line": 10,
@@ -1821,11 +1821,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:14:11.877Z",
+        "start_timestamp": "2022-12-17T13:44:55.774Z",
         "before": [
           {
             "result": {
-              "duration": 16629512000,
+              "duration": 14774496500,
               "status": "passed"
             },
             "match": {
@@ -1840,7 +1840,7 @@
         "after": [
           {
             "result": {
-              "duration": 595407700,
+              "duration": 855708600,
               "status": "passed"
             },
             "match": {
@@ -1853,7 +1853,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10446054800,
+              "duration": 10480203000,
               "status": "passed"
             },
             "line": 7,
@@ -1865,7 +1865,7 @@
           },
           {
             "result": {
-              "duration": 6356995300,
+              "duration": 6152546000,
               "status": "passed"
             },
             "line": 8,
@@ -1891,7 +1891,7 @@
           },
           {
             "result": {
-              "duration": 880059500,
+              "duration": 861695500,
               "status": "passed"
             },
             "line": 9,
@@ -1903,7 +1903,7 @@
           },
           {
             "result": {
-              "duration": 2991300,
+              "duration": 2991100,
               "status": "passed"
             },
             "line": 10,
@@ -1922,11 +1922,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:14:46.827Z",
+        "start_timestamp": "2022-12-17T13:45:28.928Z",
         "before": [
           {
             "result": {
-              "duration": 14656790100,
+              "duration": 15851619600,
               "status": "passed"
             },
             "match": {
@@ -1941,7 +1941,7 @@
         "after": [
           {
             "result": {
-              "duration": 723064200,
+              "duration": 717082900,
               "status": "passed"
             },
             "match": {
@@ -1954,7 +1954,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10450636600,
+              "duration": 10485171100,
               "status": "passed"
             },
             "line": 7,
@@ -1966,7 +1966,7 @@
           },
           {
             "result": {
-              "duration": 6485984100,
+              "duration": 5850358300,
               "status": "passed"
             },
             "line": 8,
@@ -1992,7 +1992,7 @@
           },
           {
             "result": {
-              "duration": 878204500,
+              "duration": 826794400,
               "status": "passed"
             },
             "line": 9,
@@ -2004,7 +2004,7 @@
           },
           {
             "result": {
-              "duration": 3988400,
+              "duration": 2993500,
               "status": "passed"
             },
             "line": 10,
@@ -2023,11 +2023,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:15:20.057Z",
+        "start_timestamp": "2022-12-17T13:46:02.694Z",
         "before": [
           {
             "result": {
-              "duration": 16238554500,
+              "duration": 14503223700,
               "status": "passed"
             },
             "match": {
@@ -2042,7 +2042,7 @@
         "after": [
           {
             "result": {
-              "duration": 758969900,
+              "duration": 674194200,
               "status": "passed"
             },
             "match": {
@@ -2055,7 +2055,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10378232700,
+              "duration": 10455046000,
               "status": "passed"
             },
             "line": 7,
@@ -2067,7 +2067,7 @@
           },
           {
             "result": {
-              "duration": 6601414000,
+              "duration": 5918176100,
               "status": "passed"
             },
             "line": 8,
@@ -2093,7 +2093,7 @@
           },
           {
             "result": {
-              "duration": 868867900,
+              "duration": 900897100,
               "status": "passed"
             },
             "line": 9,
@@ -2105,7 +2105,7 @@
           },
           {
             "result": {
-              "duration": 1288553800,
+              "duration": 937459100,
               "status": "passed"
             },
             "line": 10,
@@ -2124,11 +2124,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:15:56.224Z",
+        "start_timestamp": "2022-12-17T13:46:36.112Z",
         "before": [
           {
             "result": {
-              "duration": 15911434400,
+              "duration": 14027492100,
               "status": "passed"
             },
             "match": {
@@ -2143,7 +2143,7 @@
         "after": [
           {
             "result": {
-              "duration": 696137000,
+              "duration": 654250800,
               "status": "passed"
             },
             "match": {
@@ -2156,7 +2156,7 @@
         "steps": [
           {
             "result": {
-              "duration": 11620154700,
+              "duration": 10955816300,
               "status": "passed"
             },
             "line": 7,
@@ -2168,7 +2168,7 @@
           },
           {
             "result": {
-              "duration": 6553471100,
+              "duration": 5957493400,
               "status": "passed"
             },
             "line": 8,
@@ -2194,7 +2194,7 @@
           },
           {
             "result": {
-              "duration": 914552700,
+              "duration": 1763545100,
               "status": "passed"
             },
             "line": 9,
@@ -2206,7 +2206,7 @@
           },
           {
             "result": {
-              "duration": 1235694200,
+              "duration": 117685500,
               "status": "passed"
             },
             "line": 10,
@@ -2225,11 +2225,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:16:33.192Z",
+        "start_timestamp": "2022-12-17T13:47:09.616Z",
         "before": [
           {
             "result": {
-              "duration": 17979264300,
+              "duration": 14080352400,
               "status": "passed"
             },
             "match": {
@@ -2244,7 +2244,7 @@
         "after": [
           {
             "result": {
-              "duration": 678186000,
+              "duration": 698133200,
               "status": "passed"
             },
             "match": {
@@ -2257,7 +2257,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10425109100,
+              "duration": 10847547000,
               "status": "passed"
             },
             "line": 7,
@@ -2269,7 +2269,7 @@
           },
           {
             "result": {
-              "duration": 6647217100,
+              "duration": 5840225700,
               "status": "passed"
             },
             "line": 8,
@@ -2295,7 +2295,7 @@
           },
           {
             "result": {
-              "duration": 863688800,
+              "duration": 896600900,
               "status": "passed"
             },
             "line": 9,
@@ -2307,7 +2307,7 @@
           },
           {
             "result": {
-              "duration": 3991000,
+              "duration": 3988800,
               "status": "passed"
             },
             "line": 10,
@@ -2326,11 +2326,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:17:09.819Z",
+        "start_timestamp": "2022-12-17T13:47:42.016Z",
         "before": [
           {
             "result": {
-              "duration": 14956986000,
+              "duration": 13999570600,
               "status": "passed"
             },
             "match": {
@@ -2345,7 +2345,7 @@
         "after": [
           {
             "result": {
-              "duration": 628320500,
+              "duration": 632244200,
               "status": "passed"
             },
             "match": {
@@ -2358,7 +2358,7 @@
         "steps": [
           {
             "result": {
-              "duration": 11230781100,
+              "duration": 10540655700,
               "status": "passed"
             },
             "line": 7,
@@ -2370,7 +2370,7 @@
           },
           {
             "result": {
-              "duration": 6202405600,
+              "duration": 5966470600,
               "status": "passed"
             },
             "line": 8,
@@ -2396,7 +2396,7 @@
           },
           {
             "result": {
-              "duration": 856706100,
+              "duration": 846739600,
               "status": "passed"
             },
             "line": 9,
@@ -2408,7 +2408,7 @@
           },
           {
             "result": {
-              "duration": 1613679700,
+              "duration": 1337023200,
               "status": "passed"
             },
             "line": 10,
@@ -2427,11 +2427,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:17:45.336Z",
+        "start_timestamp": "2022-12-17T13:48:15.364Z",
         "before": [
           {
             "result": {
-              "duration": 15379823700,
+              "duration": 14124239100,
               "status": "passed"
             },
             "match": {
@@ -2446,7 +2446,7 @@
         "after": [
           {
             "result": {
-              "duration": 838755200,
+              "duration": 674199400,
               "status": "passed"
             },
             "match": {
@@ -2459,7 +2459,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10917679600,
+              "duration": 10560558200,
               "status": "passed"
             },
             "line": 7,
@@ -2471,7 +2471,7 @@
           },
           {
             "result": {
-              "duration": 7122165200,
+              "duration": 6005855400,
               "status": "passed"
             },
             "line": 8,
@@ -2497,7 +2497,7 @@
           },
           {
             "result": {
-              "duration": 864686600,
+              "duration": 836757800,
               "status": "passed"
             },
             "line": 9,
@@ -2509,7 +2509,7 @@
           },
           {
             "result": {
-              "duration": 3988900,
+              "duration": 2992300,
               "status": "passed"
             },
             "line": 10,
@@ -2528,11 +2528,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:18:20.489Z",
+        "start_timestamp": "2022-12-17T13:48:47.594Z",
         "before": [
           {
             "result": {
-              "duration": 16620537100,
+              "duration": 14345643400,
               "status": "passed"
             },
             "match": {
@@ -2547,7 +2547,7 @@
         "after": [
           {
             "result": {
-              "duration": 745007300,
+              "duration": 622338200,
               "status": "passed"
             },
             "match": {
@@ -2560,7 +2560,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10485947400,
+              "duration": 10494599100,
               "status": "passed"
             },
             "line": 7,
@@ -2572,7 +2572,7 @@
           },
           {
             "result": {
-              "duration": 6428520500,
+              "duration": 5973248100,
               "status": "passed"
             },
             "line": 8,
@@ -2598,7 +2598,7 @@
           },
           {
             "result": {
-              "duration": 889622800,
+              "duration": 872663800,
               "status": "passed"
             },
             "line": 9,
@@ -2610,7 +2610,7 @@
           },
           {
             "result": {
-              "duration": 1292545200,
+              "duration": 1382090800,
               "status": "passed"
             },
             "line": 10,
@@ -2629,11 +2629,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:18:56.978Z",
+        "start_timestamp": "2022-12-17T13:49:21.315Z",
         "before": [
           {
             "result": {
-              "duration": 15704985600,
+              "duration": 14623901200,
               "status": "passed"
             },
             "match": {
@@ -2648,7 +2648,7 @@
         "after": [
           {
             "result": {
-              "duration": 804840600,
+              "duration": 668214600,
               "status": "passed"
             },
             "match": {
@@ -2661,7 +2661,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10603808000,
+              "duration": 10505982400,
               "status": "passed"
             },
             "line": 7,
@@ -2673,7 +2673,7 @@
           },
           {
             "result": {
-              "duration": 6290881500,
+              "duration": 5867302400,
               "status": "passed"
             },
             "line": 8,
@@ -2699,7 +2699,7 @@
           },
           {
             "result": {
-              "duration": 874658700,
+              "duration": 822802700,
               "status": "passed"
             },
             "line": 9,
@@ -2711,7 +2711,7 @@
           },
           {
             "result": {
-              "duration": 2993200,
+              "duration": 3036300,
               "status": "passed"
             },
             "line": 10,
@@ -2734,18 +2734,18 @@
     "description": "  As a guest\n  I want to register account\n  So I can login",
     "id": "register-account",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/altaStore/a_Regist.feature",
+    "uri": "file:src/test/resources/features/DiscussIn/a_Regist.feature",
     "tags": []
   },
   {
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-12-16T01:19:31.289Z",
+        "start_timestamp": "2022-12-17T13:49:53.837Z",
         "before": [
           {
             "result": {
-              "duration": 17062845300,
+              "duration": 14518180300,
               "status": "passed"
             },
             "match": {
@@ -2760,7 +2760,7 @@
         "after": [
           {
             "result": {
-              "duration": 794873800,
+              "duration": 659231800,
               "status": "passed"
             },
             "match": {
@@ -2773,7 +2773,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10452992000,
+              "duration": 10510472200,
               "status": "passed"
             },
             "line": 7,
@@ -2785,7 +2785,7 @@
           },
           {
             "result": {
-              "duration": 3681232700,
+              "duration": 3445490300,
               "status": "passed"
             },
             "line": 8,
@@ -2807,7 +2807,7 @@
           },
           {
             "result": {
-              "duration": 7039772000,
+              "duration": 5501307400,
               "status": "passed"
             },
             "line": 9,
@@ -2819,7 +2819,7 @@
           },
           {
             "result": {
-              "duration": 4988800,
+              "duration": 3991500,
               "status": "passed"
             },
             "line": 10,
@@ -2838,11 +2838,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:20:10.372Z",
+        "start_timestamp": "2022-12-17T13:50:28.518Z",
         "before": [
           {
             "result": {
-              "duration": 16713220700,
+              "duration": 14187066800,
               "status": "passed"
             },
             "match": {
@@ -2857,7 +2857,7 @@
         "after": [
           {
             "result": {
-              "duration": 643279800,
+              "duration": 692770300,
               "status": "passed"
             },
             "match": {
@@ -2870,7 +2870,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10416747300,
+              "duration": 10506262600,
               "status": "passed"
             },
             "line": 7,
@@ -2882,7 +2882,7 @@
           },
           {
             "result": {
-              "duration": 3746976600,
+              "duration": 3493244700,
               "status": "passed"
             },
             "line": 8,
@@ -2904,7 +2904,7 @@
           },
           {
             "result": {
-              "duration": 6623281700,
+              "duration": 6353385000,
               "status": "passed"
             },
             "line": 9,
@@ -2916,7 +2916,7 @@
           },
           {
             "result": {
-              "duration": 5989900,
+              "duration": 3031800,
               "status": "passed"
             },
             "line": 10,
@@ -2935,11 +2935,11 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:20:48.545Z",
+        "start_timestamp": "2022-12-17T13:51:03.776Z",
         "before": [
           {
             "result": {
-              "duration": 14868224300,
+              "duration": 14181083100,
               "status": "passed"
             },
             "match": {
@@ -2954,7 +2954,7 @@
         "after": [
           {
             "result": {
-              "duration": 764951900,
+              "duration": 633305600,
               "status": "passed"
             },
             "match": {
@@ -2967,7 +2967,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10606210000,
+              "duration": 10468497700,
               "status": "passed"
             },
             "line": 7,
@@ -2979,7 +2979,7 @@
           },
           {
             "result": {
-              "duration": 4106016300,
+              "duration": 3435815300,
               "status": "passed"
             },
             "line": 8,
@@ -3001,492 +3001,7 @@
           },
           {
             "result": {
-              "duration": 7101918300,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I click Login button",
-            "match": {
-              "location": "com.example.steps.LoginStep.iClickLoginButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 3987700,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I will get the \"failed message\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"failed message\"",
-                  "offset": 15
-                }
-              ],
-              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-12-16T01:21:26.023Z",
-        "before": [
-          {
-            "result": {
-              "duration": 18261135400,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.before()"
-            }
-          }
-        ],
-        "line": 16,
-        "name": "Login with email and Password",
-        "description": "",
-        "id": "login-account;login-with-email-and-password;;5",
-        "after": [
-          {
-            "result": {
-              "duration": 847729000,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.after()"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 10490049100,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I am on the login page",
-            "match": {
-              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 3615291700,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I input \"random\" email \"random\" password",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"random\"",
-                  "offset": 8
-                },
-                {
-                  "val": "\"random\"",
-                  "offset": 23
-                }
-              ],
-              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 6627267900,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I click Login button",
-            "match": {
-              "location": "com.example.steps.LoginStep.iClickLoginButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 6982100,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I will get the \"failed message\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"failed message\"",
-                  "offset": 15
-                }
-              ],
-              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-12-16T01:22:05.898Z",
-        "before": [
-          {
-            "result": {
-              "duration": 15922119700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.before()"
-            }
-          }
-        ],
-        "line": 17,
-        "name": "Login with email and Password",
-        "description": "",
-        "id": "login-account;login-with-email-and-password;;6",
-        "after": [
-          {
-            "result": {
-              "duration": 805844300,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.after()"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 10454239900,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I am on the login page",
-            "match": {
-              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 2923025100,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I input \"null\" email \"null\" password",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"null\"",
-                  "offset": 8
-                },
-                {
-                  "val": "\"null\"",
-                  "offset": 21
-                }
-              ],
-              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 6332130000,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I click Login button",
-            "match": {
-              "location": "com.example.steps.LoginStep.iClickLoginButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 3990000,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I will get the \"failed message\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"failed message\"",
-                  "offset": 15
-                }
-              ],
-              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-12-16T01:22:42.367Z",
-        "before": [
-          {
-            "result": {
-              "duration": 15986232400,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.before()"
-            }
-          }
-        ],
-        "line": 18,
-        "name": "Login with email and Password",
-        "description": "",
-        "id": "login-account;login-with-email-and-password;;7",
-        "after": [
-          {
-            "result": {
-              "duration": 696137700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.after()"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 10424714500,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I am on the login page",
-            "match": {
-              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 3474705700,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I input \"random\" email \"null\" password",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"random\"",
-                  "offset": 8
-                },
-                {
-                  "val": "\"null\"",
-                  "offset": 23
-                }
-              ],
-              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 6005815700,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I click Login button",
-            "match": {
-              "location": "com.example.steps.LoginStep.iClickLoginButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 2992400,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I will get the \"failed message\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"failed message\"",
-                  "offset": 15
-                }
-              ],
-              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-12-16T01:23:18.987Z",
-        "before": [
-          {
-            "result": {
-              "duration": 15416746900,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.before()"
-            }
-          }
-        ],
-        "line": 19,
-        "name": "Login with email and Password",
-        "description": "",
-        "id": "login-account;login-with-email-and-password;;8",
-        "after": [
-          {
-            "result": {
-              "duration": 766950500,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.after()"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 10398079800,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I am on the login page",
-            "match": {
-              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 2916198500,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I input \"null\" email \"random\" password",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"null\"",
-                  "offset": 8
-                },
-                {
-                  "val": "\"random\"",
-                  "offset": 21
-                }
-              ],
-              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 7307886700,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I click Login button",
-            "match": {
-              "location": "com.example.steps.LoginStep.iClickLoginButton()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 6978000,
-              "status": "passed"
-            },
-            "line": 10,
-            "name": "I will get the \"failed message\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"failed message\"",
-                  "offset": 15
-                }
-              ],
-              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
-            },
-            "keyword": "Then "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-12-16T01:23:55.823Z",
-        "before": [
-          {
-            "result": {
-              "duration": 18508224700,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.before()"
-            }
-          }
-        ],
-        "line": 20,
-        "name": "Login with email and Password",
-        "description": "",
-        "id": "login-account;login-with-email-and-password;;9",
-        "after": [
-          {
-            "result": {
-              "duration": 717079600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "com.example.hook.AndroidDriverHook.after()"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 10489186200,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I am on the login page",
-            "match": {
-              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 3871642200,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I input \"valid\" email \"null\" password",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\"valid\"",
-                  "offset": 8
-                },
-                {
-                  "val": "\"null\"",
-                  "offset": 22
-                }
-              ],
-              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 6251271000,
+              "duration": 6025918600,
               "status": "passed"
             },
             "line": 9,
@@ -3517,11 +3032,496 @@
         ]
       },
       {
-        "start_timestamp": "2022-12-16T01:24:35.688Z",
+        "start_timestamp": "2022-12-17T13:51:38.551Z",
         "before": [
           {
             "result": {
-              "duration": 16679084300,
+              "duration": 14795439900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Login with email and Password",
+        "description": "",
+        "id": "login-account;login-with-email-and-password;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 737023100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10553532800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the login page",
+            "match": {
+              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3678164300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input \"random\" email \"random\" password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"random\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"random\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6021839700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Login button",
+            "match": {
+              "location": "com.example.steps.LoginStep.iClickLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3993800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I will get the \"failed message\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed message\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:52:14.369Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15032806100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Login with email and Password",
+        "description": "",
+        "id": "login-account;login-with-email-and-password;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 644277800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10437129900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the login page",
+            "match": {
+              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2780933400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input \"null\" email \"null\" password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"null\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 21
+                }
+              ],
+              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5412816400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Login button",
+            "match": {
+              "location": "com.example.steps.LoginStep.iClickLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2989600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I will get the \"failed message\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed message\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:52:48.707Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14923100000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Login with email and Password",
+        "description": "",
+        "id": "login-account;login-with-email-and-password;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 711065900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10554219900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the login page",
+            "match": {
+              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3484955900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input \"random\" email \"null\" password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"random\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6316903600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Login button",
+            "match": {
+              "location": "com.example.steps.LoginStep.iClickLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2992400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I will get the \"failed message\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed message\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:53:24.727Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14719641000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Login with email and Password",
+        "description": "",
+        "id": "login-account;login-with-email-and-password;;8",
+        "after": [
+          {
+            "result": {
+              "duration": 713901500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10468834700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the login page",
+            "match": {
+              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2802886300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input \"null\" email \"random\" password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"null\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"random\"",
+                  "offset": 21
+                }
+              ],
+              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5947055500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Login button",
+            "match": {
+              "location": "com.example.steps.LoginStep.iClickLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3988500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I will get the \"failed message\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed message\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:53:59.414Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14865255300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Login with email and Password",
+        "description": "",
+        "id": "login-account;login-with-email-and-password;;9",
+        "after": [
+          {
+            "result": {
+              "duration": 695137000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10461622500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the login page",
+            "match": {
+              "location": "com.example.steps.LoginStep.iAmOnTheLoginPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3440802600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input \"valid\" email \"null\" password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"valid\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 22
+                }
+              ],
+              "location": "com.example.steps.LoginStep.iInputEmailPassword(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5337815600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Login button",
+            "match": {
+              "location": "com.example.steps.LoginStep.iClickLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3989400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I will get the \"failed message\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed message\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.RegistStep.iWillGetThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:54:34.244Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14433410600,
               "status": "passed"
             },
             "match": {
@@ -3536,7 +3536,7 @@
         "after": [
           {
             "result": {
-              "duration": 650258800,
+              "duration": 942480300,
               "status": "passed"
             },
             "match": {
@@ -3549,7 +3549,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10415138800,
+              "duration": 10476678400,
               "status": "passed"
             },
             "line": 7,
@@ -3561,7 +3561,7 @@
           },
           {
             "result": {
-              "duration": 3110679300,
+              "duration": 3162593000,
               "status": "passed"
             },
             "line": 8,
@@ -3583,7 +3583,7 @@
           },
           {
             "result": {
-              "duration": 7280105000,
+              "duration": 7782193000,
               "status": "passed"
             },
             "line": 9,
@@ -3595,7 +3595,7 @@
           },
           {
             "result": {
-              "duration": 4986400,
+              "duration": 4985000,
               "status": "passed"
             },
             "line": 10,
@@ -3615,10 +3615,1033 @@
       }
     ],
     "name": "Login Account",
-    "description": "  As a user\n  I want to login\n  So I can access my dashboard",
+    "description": "  As a user\n  I want to login\n  So I can access my home page",
     "id": "login-account",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/altaStore/b_Login.feature",
+    "uri": "file:src/test/resources/features/DiscussIn/b_Login.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-12-17T13:55:11.072Z",
+        "before": [
+          {
+            "result": {
+              "duration": 16997553800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Create Thread with Title, content, and photo (without null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(without-null);;2",
+        "after": [
+          {
+            "result": {
+              "duration": 635301900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19738409900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12066665100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8089371600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I input \"null\" title \"write\" content and \"null\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"null\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"write\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 41
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1678510700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click discuss.In button and Publish",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButtonAndPublish()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 197471700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I will get the \"failed\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:56:10.521Z",
+        "before": [
+          {
+            "result": {
+              "duration": 16363719100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Create Thread with Title, content, and photo (without null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(without-null);;3",
+        "after": [
+          {
+            "result": {
+              "duration": 789923800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19878795400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11355731200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9298890900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I input \"write\" title \"null\" content and \"null\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"write\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 41
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1334612400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click discuss.In button and Publish",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButtonAndPublish()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 115692800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I will get the \"failed\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:57:09.687Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14770572600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Create Thread with Title, content, and photo (without null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(without-null);;4",
+        "after": [
+          {
+            "result": {
+              "duration": 647269900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19219974900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11703781900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat ✽.I input \"null\" title \"write\" content and \"upload\" photo(file:///D:/File%20Baru/Kuliah/Quality%20Engineer/Capstone_DIskusiin/Diskusi.in-QA/sample-mobile-automation/src/test/resources/features/DiscussIn/c_CreateThread.feature:9)\r\nCaused by: org.openqa.selenium.InvalidSelectorException: java.lang.IllegalArgumentException: Unable to compile \u0027///android.widget.ImageView\u0027. See Cause.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-2F464B0\u0027, ip: \u0027192.168.122.234\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.16\u0027\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: D:\\File Baru\\Kuliah\\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\\File Baru\\Kuliah\\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: d047a656-68e2-4fbd-a47e-1a4d03382982\n*** Element info: {Using\u003dxpath, value\u003d///android.widget.ImageView}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)\r\n\tat io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat io.cucumber.java.Invoker.doInvoke(Invoker.java:66)\r\n\tat io.cucumber.java.Invoker.invoke(Invoker.java:24)\r\n\tat io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)\r\n\tat io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)\r\n\tat io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)\r\n\tat io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)\r\n\tat io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)\r\n\tat io.cucumber.core.runner.TestStep.run(TestStep.java:63)\r\n\tat io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)\r\n\tat io.cucumber.core.runner.TestCase.run(TestCase.java:99)\r\n\tat io.cucumber.core.runner.Runner.runPickle(Runner.java:71)\r\n\tat io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat io.cucumber.junit.CucumberSerenityRunner$RunCucumber.evaluate(CucumberSerenityRunner.java:262)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:115)\r\n\tat org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:40)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)\r\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)\r\n\tat java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)\r\n\tat java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\r\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)\r\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)\r\n\tat org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)\r\n\tat org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:71)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:229)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:197)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:211)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:191)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:188)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:128)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)\r\n",
+              "duration": 111884642000,
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "I input \"null\" title \"write\" content and \"upload\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"null\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"write\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"upload\"",
+                  "offset": 41
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2993700,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "I click discuss.In button and Publish",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButtonAndPublish()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1991600,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I will get the \"failed\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T13:59:48.022Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14277825500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Create Thread with Title, content, and photo (without null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(without-null);;5",
+        "after": [
+          {
+            "result": {
+              "duration": 711098900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19833995600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11984004600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8089560000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I input \"write\" title \"write\" content and \"null\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"write\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"write\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 42
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1322467400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click discuss.In button and Publish",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButtonAndPublish()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 102725800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I will get the \"failed\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T14:00:44.372Z",
+        "before": [
+          {
+            "result": {
+              "duration": 13968651400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Create Thread with Title, content, and photo (without null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(without-null);;6",
+        "after": [
+          {
+            "result": {
+              "duration": 572473600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19546885800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12095943400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat ✽.I input \"write\" title \"null\" content and \"upload\" photo(file:///D:/File%20Baru/Kuliah/Quality%20Engineer/Capstone_DIskusiin/Diskusi.in-QA/sample-mobile-automation/src/test/resources/features/DiscussIn/c_CreateThread.feature:9)\r\nCaused by: org.openqa.selenium.InvalidSelectorException: java.lang.IllegalArgumentException: Unable to compile \u0027///android.widget.ImageView\u0027. See Cause.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-2F464B0\u0027, ip: \u0027192.168.122.234\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.16\u0027\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: D:\\File Baru\\Kuliah\\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\\File Baru\\Kuliah\\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 43c24a59-66b1-478e-a974-7632a42a93de\n*** Element info: {Using\u003dxpath, value\u003d///android.widget.ImageView}\r\n\tat jdk.internal.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)\r\n\tat io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat io.cucumber.java.Invoker.doInvoke(Invoker.java:66)\r\n\tat io.cucumber.java.Invoker.invoke(Invoker.java:24)\r\n\tat io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)\r\n\tat io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)\r\n\tat io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)\r\n\tat io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)\r\n\tat io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)\r\n\tat io.cucumber.core.runner.TestStep.run(TestStep.java:63)\r\n\tat io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)\r\n\tat io.cucumber.core.runner.TestCase.run(TestCase.java:99)\r\n\tat io.cucumber.core.runner.Runner.runPickle(Runner.java:71)\r\n\tat io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat io.cucumber.junit.CucumberSerenityRunner$RunCucumber.evaluate(CucumberSerenityRunner.java:262)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:115)\r\n\tat org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:40)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)\r\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)\r\n\tat java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)\r\n\tat java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\r\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)\r\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)\r\n\tat org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)\r\n\tat org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:71)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:229)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:197)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:211)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:191)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:188)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:128)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)\r\n",
+              "duration": 111306929700,
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "I input \"write\" title \"null\" content and \"upload\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"write\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"upload\"",
+                  "offset": 41
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2992400,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "I click discuss.In button and Publish",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButtonAndPublish()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1993600,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I will get the \"failed\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"failed\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T14:03:21.927Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15252221400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Create Thread with Title, content, and photo (without null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(without-null);;7",
+        "after": [
+          {
+            "result": {
+              "duration": 735035100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20301097400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11268879600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat ✽.I input \"write\" title \"write\" content and \"upload\" photo(file:///D:/File%20Baru/Kuliah/Quality%20Engineer/Capstone_DIskusiin/Diskusi.in-QA/sample-mobile-automation/src/test/resources/features/DiscussIn/c_CreateThread.feature:9)\r\nCaused by: org.openqa.selenium.InvalidSelectorException: java.lang.IllegalArgumentException: Unable to compile \u0027///android.widget.ImageView\u0027. See Cause.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-2F464B0\u0027, ip: \u0027192.168.122.234\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.16\u0027\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: D:\\File Baru\\Kuliah\\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\\File Baru\\Kuliah\\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 14f9ef81-97b4-4ba1-89ba-bafef45eb352\n*** Element info: {Using\u003dxpath, value\u003d///android.widget.ImageView}\r\n\tat jdk.internal.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)\r\n\tat io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat io.cucumber.java.Invoker.doInvoke(Invoker.java:66)\r\n\tat io.cucumber.java.Invoker.invoke(Invoker.java:24)\r\n\tat io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)\r\n\tat io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)\r\n\tat io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)\r\n\tat io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)\r\n\tat io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)\r\n\tat io.cucumber.core.runner.TestStep.run(TestStep.java:63)\r\n\tat io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)\r\n\tat io.cucumber.core.runner.TestCase.run(TestCase.java:99)\r\n\tat io.cucumber.core.runner.Runner.runPickle(Runner.java:71)\r\n\tat io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat io.cucumber.junit.CucumberSerenityRunner$RunCucumber.evaluate(CucumberSerenityRunner.java:262)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:115)\r\n\tat org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:40)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)\r\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)\r\n\tat java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)\r\n\tat java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\r\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)\r\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)\r\n\tat org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)\r\n\tat org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:71)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:229)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:197)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:211)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:191)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:188)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:128)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)\r\n",
+              "duration": 112249242900,
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "I input \"write\" title \"write\" content and \"upload\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"write\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"write\"",
+                  "offset": 22
+                },
+                {
+                  "val": "\"upload\"",
+                  "offset": 42
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3990400,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "I click discuss.In button and Publish",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButtonAndPublish()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2991900,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I will get the \"success\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"success\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T14:06:01.800Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14712663600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "Create Thread with Title, content, and photo (with null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(with-null);;2",
+        "after": [
+          {
+            "result": {
+              "duration": 682176400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20301601600,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12714416300,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8963674200,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I input \"null\" title \"null\" content and \"null\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"null\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 651996200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click discuss.In button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 158359500,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I will get the \"doesnt work\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"doesnt work\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-12-17T14:07:00.021Z",
+        "before": [
+          {
+            "result": {
+              "duration": 14310738300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "Create Thread with Title, content, and photo (with null)",
+        "description": "",
+        "id": "create-thread;create-thread-with-title--content--and-photo-(with-null);;3",
+        "after": [
+          {
+            "result": {
+              "duration": 672203900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20522096900,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12031254200,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click Create Thread button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickCreateThreadButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: ///android.widget.ImageView (tried for 100 second(s) with 10000 milliseconds interval)\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat ✽.I input \"null\" title \"null\" content and \"upload\" photo(file:///D:/File%20Baru/Kuliah/Quality%20Engineer/Capstone_DIskusiin/Diskusi.in-QA/sample-mobile-automation/src/test/resources/features/DiscussIn/c_CreateThread.feature:24)\r\nCaused by: org.openqa.selenium.InvalidSelectorException: java.lang.IllegalArgumentException: Unable to compile \u0027///android.widget.ImageView\u0027. See Cause.\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-2F464B0\u0027, ip: \u0027192.168.122.234\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.16\u0027\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities {app: D:\\File Baru\\Kuliah\\Quality..., appPackage: com.yashagozwan.discussin_m..., automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\\File Baru\\Kuliah\\Quality..., automationName: UiAutomator2, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: M2010J19CG, deviceName: 94ddf1a90721, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 94ddf1a90721, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 78, takesScreenshot: true, viewportRect: {height: 2054, left: 0, top: 78, width: 1080}, warnings: {}, webStorageEnabled: false}\nSession ID: 8132b916-8d8f-42f1-8ba0-bfefbbd3b5ff\n*** Element info: {Using\u003dxpath, value\u003d///android.widget.ImageView}\r\n\tat jdk.internal.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)\r\n\tat io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)\r\n\tat io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)\r\n\tat io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.find(BasePageObject.java:26)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.base.BasePageObject.click(BasePageObject.java:29)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.app.pages.CreateThread.uploadAPhoto(CreateThread.java:58)\r\n\tat sample.mobile.automation@1.0-SNAPSHOT/com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(CreateThreadStep.java:29)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\r\n\tat io.cucumber.java.Invoker.doInvoke(Invoker.java:66)\r\n\tat io.cucumber.java.Invoker.invoke(Invoker.java:24)\r\n\tat io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)\r\n\tat io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)\r\n\tat io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)\r\n\tat io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)\r\n\tat io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)\r\n\tat io.cucumber.core.runner.TestStep.run(TestStep.java:63)\r\n\tat io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)\r\n\tat io.cucumber.core.runner.TestCase.run(TestCase.java:99)\r\n\tat io.cucumber.core.runner.Runner.runPickle(Runner.java:71)\r\n\tat io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)\r\n\tat io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat io.cucumber.junit.CucumberSerenityRunner$RunCucumber.evaluate(CucumberSerenityRunner.java:262)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:115)\r\n\tat org.junit.vintage.engine.execution.RunnerExecutor.execute(RunnerExecutor.java:40)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)\r\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)\r\n\tat java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)\r\n\tat java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\r\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)\r\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)\r\n\tat org.junit.vintage.engine.VintageTestEngine.executeAllChildren(VintageTestEngine.java:80)\r\n\tat org.junit.vintage.engine.VintageTestEngine.execute(VintageTestEngine.java:71)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:229)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.lambda$execute$6(DefaultLauncher.java:197)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.withInterceptedStreams(DefaultLauncher.java:211)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:191)\r\n\tat org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:128)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:188)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\r\n\tat org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:128)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)\r\n",
+              "duration": 110903097600,
+              "status": "failed"
+            },
+            "line": 24,
+            "name": "I input \"null\" title \"null\" content and \"upload\" photo",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"null\"",
+                  "offset": 8
+                },
+                {
+                  "val": "\"null\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"upload\"",
+                  "offset": 40
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iInputTitleContentAndPhoto(java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2992800,
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "I click discuss.In button",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iClickDiscussInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2992400,
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "I will get the \"doesnt work\" post",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"doesnt work\"",
+                  "offset": 15
+                }
+              ],
+              "location": "com.example.steps.CreateThreadStep.iWillGetThePost(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Create Thread",
+    "description": "  As a user\n  I want to create thread\n  So I can post the thread",
+    "id": "create-thread",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/DiscussIn/c_CreateThread.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-12-17T14:09:38.786Z",
+        "before": [
+          {
+            "result": {
+              "duration": 17565035900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Logout with valid email and Password",
+        "description": "",
+        "id": "logout-account;logout-with-valid-email-and-password",
+        "after": [
+          {
+            "result": {
+              "duration": 650262300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 20625435400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the home page",
+            "match": {
+              "location": "com.example.steps.CreateThreadStep.iAmOnTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10333044200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click Profile button",
+            "match": {
+              "location": "com.example.steps.LogoutStep.iClickProfileButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1763017300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click Setting button",
+            "match": {
+              "location": "com.example.steps.LogoutStep.iClickSettingButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1017788900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click logout icon",
+            "match": {
+              "location": "com.example.steps.LogoutStep.iClickLogoutIcon()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 245529900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I will go to login page",
+            "match": {
+              "location": "com.example.steps.LogoutStep.iWillGoToLoginPage()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Logout Account",
+    "description": "  As a user\n  I want to logout\n  So I can logout my account",
+    "id": "logout-account",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/DiscussIn/d_Logout.feature",
     "tags": []
   }
 ]

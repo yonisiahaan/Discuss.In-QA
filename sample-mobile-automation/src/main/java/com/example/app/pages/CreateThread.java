@@ -11,10 +11,12 @@ public class CreateThread extends BasePageObject {
     private By uploadPhoto = By.xpath("//android.widget.Button");
     private By choosePhotoOrCamera = By.xpath("//android.widget.Button[1]");
     private By choosePhoto = By.xpath("///android.widget.ImageView");
+    private By publishThread = MobileBy.AccessibilityId("Yes");
     private By popupCreateThread = MobileBy.AccessibilityId("Tab 3 of 5");
     private By CreateThreadButton = MobileBy.AccessibilityId("Create a Discuss?");
     private By DiscussInButton = MobileBy.AccessibilityId("Discuss.In");
-    private By verifySuccessThread = By.xpath("//android.view.View[1]");
+    private By verifySuccessThread = By.xpath("//android.view.View[3]");
+
 
     public void clickCreateThreadButton(){
         click(popupCreateThread);
@@ -24,7 +26,7 @@ public class CreateThread extends BasePageObject {
         isDisplayed(verifySuccessThread);
     }
     public void failedPost(){
-        isDisplayed(verifySuccessThread);
+        isDisplayed(publishThread);
     }
     public void writeTitle(String title){
         if(title.equals("write")){
@@ -50,15 +52,20 @@ public class CreateThread extends BasePageObject {
     }
 
     public void uploadAPhoto(String upload){
-        if(upload.equals("write")){
+        if(upload.equals("upload")){
             click(uploadPhoto);
             click(choosePhotoOrCamera);
             click(choosePhoto);
         } else if (upload.equals("null")){
+            isDisplayed(uploadPhoto);
         }
     }
 
     public void clickDiscussInButton(){
         click(DiscussInButton);
     }
+    public void clickPublishThread(){
+        click(publishThread);
+    }
+    public void doesntWork(){isDisplayed(DiscussInButton);}
 }
